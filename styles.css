@@ -123,6 +123,20 @@ input[type="submit"] {
     margin-top: 50px;
 }
 
+p.log-in {
+    position: absolute;
+    margin-left: 45px;
+    margin-top: 150px;
+    font-weight: 400;
+    font-size: 1rem;
+}
+
+.log-in a {
+    color: #596D48;
+    font-weight: bold;
+    text-decoration: none;
+}
+
 
 
 
