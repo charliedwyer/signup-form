@@ -23,6 +23,7 @@ body {
     font-size: 8rem;
     font-family: norseFont;
     justify-content: center;
+    text-align: center;
 }
 
 .info-section {
@@ -51,6 +52,12 @@ body {
 .logo {
     display: flex;
     align-items: center;
+    justify-content: center;
+    background-color: rgba(0, 0, 0, 0.4);
+    height: 25vh;
+    width: 100vw;
+    position: relative;
+    top: 30%;
 }
 
 img {
